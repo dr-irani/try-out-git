@@ -1,7 +1,10 @@
 import math
 print(math.pi)
+<<<<<<< HEAD
 
 import pandas as pd
 
 df = pd.DataFrame()
+=======
 print("2+2 equals", 2+2)
+>>>>>>> 35ad89562982ce170033e78de9562f20961dce67
